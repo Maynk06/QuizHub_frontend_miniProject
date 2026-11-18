@@ -17,11 +17,11 @@ Each starter quiz contains 10 questions.
 
 DEMO TEACHER SIGN-IN
 Choose Teacher on the sign-in page.
-Username: frontend_teacher | Password: teacher123
-Username: java_teacher     | Password: teacher123
-Username: networks_teacher | Password: teacher123
-Username: aptitude_teacher | Password: teacher123
-Username: cloud_teacher    | Password: teacher123
+Username: frontend_teacher 
+Username: java_teacher      
+Username: networks_teacher 
+Username: aptitude_teacher 
+Username: cloud_teacher   
 
 STUDENT SIGN-IN
 Choose Student, then enter your name, email and password to create an account.
